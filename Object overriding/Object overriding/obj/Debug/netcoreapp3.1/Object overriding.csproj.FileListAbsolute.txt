@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\bin\Debug\netcoreapp3.1\Object overriding.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\bin\Debug\netcoreapp3.1\Object overriding.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\bin\Debug\netcoreapp3.1\Object overriding.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\bin\Debug\netcoreapp3.1\Object overriding.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\bin\Debug\netcoreapp3.1\Object overriding.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\bin\Debug\netcoreapp3.1\Object overriding.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\Object overriding\Object overriding\obj\Debug\netcoreapp3.1\Object overriding.genruntimeconfig.cache
